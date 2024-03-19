@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Cache directories
+.cache/
+dist/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS specific files
+.DS_Store
